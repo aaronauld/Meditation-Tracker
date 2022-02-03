@@ -11,6 +11,9 @@
 
 ## Resources Used
 **Mongo Version:** 5.0
+
 **Express Version:** 4.17
+
 **React Version:** 17.0.2
+
 **Node Version:** 16.13.2
