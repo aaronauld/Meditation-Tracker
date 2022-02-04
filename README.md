@@ -10,9 +10,9 @@
 * Go further with routing and gain a deeper understanding of how the front end and back end interact to improve my knowledge on that aspect of the stack.
 
 ## Resources Used
-**Mongo Version:** 5.0
+**Mongoose Version:** 6.1.10
 
-**Express Version:** 4.17
+**Express Version:** 4.17.2
 
 **React Version:** 17.0.2
 
