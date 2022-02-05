@@ -8,6 +8,7 @@
 * I look to implement a calender tracker which would take the inputted date and create a green square on the calender corresponding to that date. This would provide a visual representation of each day that I meditated
 * Implement the database with postgreSQL which can incorporate SQL language which is a preference to MongoDB
 * Go further with routing and gain a deeper understanding of how the front end and back end interact to improve my knowledge on that aspect of the stack.
+* Host and deploy the website using AWS
 
 ## Resources Used
 **Mongoose Version:** 6.1.10
