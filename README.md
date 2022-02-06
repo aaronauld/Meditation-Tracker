@@ -1,4 +1,5 @@
 # Meditation-Tracker (Built using MERN Stack)
+![Meditation](images/meditation.png)
 ## Project Overview
 * This project was my first introduction to completing a full stack application from the ground up, using MongoDB, Express, React and Node.js (MERN).
 * The aim for the project was to create an application which I could use in my day to day life. One activity I try to practice regularly is mindfulness and thus I thought I could create a meditation tracker to track each time I meditated. The app would take input as to why I was meditating, the date I meditated, the duration and whether I felt better after the session.
